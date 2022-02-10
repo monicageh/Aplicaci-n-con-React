@@ -1,0 +1,35 @@
+{
+  "en": "English",
+  "es": "Spanish",
+  "pageTitle" : "My Games",
+  "links": {
+    "home": "Home",
+    "tictactoe": "TicTacToe",
+    "quiz": "Quiz"
+  },
+  "home": {
+    "img": "https://images.hdqwalls.com/wallpapers/iron-man-among-us-5k-l7.jpg",
+    "welcome": ["Welcome to the main React mini-games page.",
+    "In this page you will be able to play different games.",
+  "Click on the tab of the game you want to play."]
+  },
+  "tictactoe": {
+    "movements": "Number of moves",
+    "turn": "Turn of "
+  },
+  "quiz": {
+    "input": "Type your answer here",
+    "buttons": {
+      "reset": "Reset",
+      "submit": "Submit",
+      "previous": "Previous",
+      "next": "Next"
+    },
+    "title": "Game",
+    "question": "Question",
+    "createdBy": "Created by",
+    "yourPoints": "Your points",
+    "points": "points",
+    "notFound": "Quizzes not found :("
+  }
+}

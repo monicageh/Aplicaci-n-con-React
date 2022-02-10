@@ -1,0 +1,35 @@
+{
+  "en": "Inglés",
+  "es": "Español",
+  "pageTitle" : "Mis Juegos",
+  "links": {
+    "home": "Inicio",
+    "tictactoe": "Tres en raya",
+    "quiz": "Quiz"
+  },
+  "home": {
+    "img": "https://www.xtrafondos.com/wallpapers/thor-estilo-among-us-7438.jpg",
+    "welcome": ["Bienvenido a la página principal de minijuegos en React.", 
+      "En esta página podrás jugar a diferentes juegos.", 
+      "Haz click en la pestaña del juego a que quieras jugar."]
+  },
+  "tictactoe": {
+    "movements": "Número de movimientos",
+    "turn": "Turno de "
+  },
+  "quiz": {
+    "input": "Escribe tu respuesta aquí",
+    "buttons": {
+      "reset": "Resetear",
+      "submit": "Enviar",
+      "previous": "Anterior",
+      "next": "Siguiente"
+    },
+    "title": "Juego",
+    "question": "Pregunta",
+    "createdBy": "Creada por",
+    "yourPoints": "Tus puntos",
+    "points": "puntos",
+    "notFound": "No se encontraron quizzes :("
+  }
+}
